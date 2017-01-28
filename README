@@ -1,0 +1,4 @@
+Système de planification de vol pour une compagnie aérienne.
+Les membres du CCO peuvent consulter, ajouter, modifier, supprimer des vols, tandis que les membres d'équipages peuvent seulement consulter les vols les concernant.
+Utilisation d'un serveur en local utilisant les technologies jetty-jersey, datanucleus et REST pour stocker et faire la communication des données. 
+La partie web a été réaliser à l'aide des classiques HTML/CSS et JQuery.
